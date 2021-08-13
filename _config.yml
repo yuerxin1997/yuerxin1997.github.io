@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "LZN's Homepage"
+title                    : "Erxin Yu (余尔鑫)"
 title_separator          : "-"
-name                     : &name "Zhining Liu"
+name                     : &name "Erxin Yu"
 description              : &description "Welcome to my homepage!"
-url                      : https://zhiningliu.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yuerxin1997.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : ""
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,16 +80,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhining Liu"
-  avatar           : "zhiningliu.jpg"
-  bio              : "Luna keeps an eye on every soul."
+  name             : "Erxin Yu"
+  avatar           : "erxin.jpg"
+  bio              : 
   location         : "Changchun, China"
   employer         : "Jilin University"
   employer_site    : "http://global.jlu.edu.cn/"
-  zhihu            : "liu-zhi-zhu-14"
+  zhihu            : #"liu-zhi-zhu-14"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=5WORAUQAAAAJ&hl=zh-CN"
-  email            : zhining.liu@outlook.com
+  googlescholar    : 
+  email            : yuerxin1997@gmail.com
   researchgate     : "https://www.researchgate.net/profile/Zhi_Ning_Liu"
   uri              : "https://zhiningliu.com/"
   bitbucket        :
@@ -98,18 +98,18 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ZhiningLiu1998"
+  github           : "yuerxin1997"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "zhiningliu/"
-  orcid            : "https://orcid.org/0000-0003-1828-2109"
+  linkedin         : #"zhiningliu/"
+  orcid            : #"https://orcid.org/0000-0003-1828-2109"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            : "zhiningliu1998"
+  steam            : #"zhiningliu1998"
   tumblr           :
   twitter          : 
   vine             :
