@@ -13,7 +13,7 @@ I am a M.Sc. student at [School of Artificial Intelligence](http://sai.jlu.edu.c
 supervised by Prof. [Yi Chang](http://yichang-cs.com/). During my graduate studies, I also work closely with Prof. [Lan Du](https://dulann.github.io/) from Monash University. Before that, I obtained my B.Sc. degree in College of Software with high honor from Jilin University in 2019. My recent research interests include Information Extraction, Language model, Topic Model
 
 **Contact me via**:  
-<i class="fa fa-fw fa-envelope"></i> <font style="font-size: 0.9em;">Mail: <a href="mailto:yuerxin1997@gmail.com">yuerxin1997(AT)outlook.com</a> or <a href="mailto:yuex19@mails.jlu.edu.cn">yuex19(AT)mails.jlu.edu.cn</a></font>
+<i class="fa fa-fw fa-envelope"></i> <font style="font-size: 0.9em;">Mail: <a href="mailto:yuerxin1997@gmail.com">yuerxin1997(AT)gmail.com</a> or <a href="mailto:yuex19@mails.jlu.edu.cn">yuex19(AT)mails.jlu.edu.cn</a></font>
 <br>
 <i class="fa fa-fw fa-phone"></i> <font style="font-size: 0.9em;">Mobile: +86 156-5912-6198</font>
 
@@ -24,7 +24,7 @@ supervised by Prof. [Yi Chang](http://yichang-cs.com/). During my graduate studi
   <b>[10/2020]</b> Our work on distantly relation extraction was accepted by <a href="https://coling2020.org/">COLING 2020</a>!<br>
   <b>[07/2020]</b> Two papers on relation extraction was accepted by <a href="http://ickg2020.bigke.org/">IEEE ICKG 2020</a>!<br>
   <b>[07/2019]</b> I received my B.Sc. degree from the Excellent Engineer Program in Software Engineering.<br>
-  <b>[09/2018]</b> I will intern at Huawei Research in the following year, supervised by Dr. <a href="http://www.bigdatalab.ac.cn/~jyt/">Yantao Jia</a>.<br>
+  <b>[09/2018]</b> I will intern at Huawei Research in the following year, supervised by Dr. <a href="https://dblp.org/pid/130/0492.html">Yantao Jia</a>.<br>
   </p>
 </div>
 
@@ -53,7 +53,7 @@ supervised by Prof. [Yi Chang](http://yichang-cs.com/). During my graduate studi
       <br>
       Research Intern, Possion Lab (Jul. 2018 to Aug. 2019)
       <br>
-      Mentor: Dr. <a href="http://www.bigdatalab.ac.cn/~jyt/">Yantao Jia</a>.
+      Mentor: Dr. <a href="https://dblp.org/pid/130/0492.html">Yantao Jia</a>.
     </td>
   </tr>
 </table>
@@ -67,7 +67,7 @@ supervised by Prof. [Yi Chang](http://yichang-cs.com/). During my graduate studi
 1. **“The Poisson multi-media knowledge construction System for TAC KBP 2018”**, Zhicheng Sheng, Danping Wu, Zelong Li, Wei Zhang, Jingchen Lu, Zeming Xu, Dong Liu, Shuo Guo, Yantao Jia, Zhepei Wei, **Erxin Yu**,  Xiongfeng Xiao, Zhuo Wang, Jianyong Wang, in Proceedings of the 2018 Text Analysis Conference (TAC 2018) , Gaithersburg, Maryland USA, November 2018. [[paper]](https://www.semanticscholar.org/paper/The-Poisson-multi-media-knowledge-construction-for-Sheng-Wu/8cb0baa1fed8f46b82466b6fd378a21a0faefb09)
 
 
-### *Selected Honors*
+<!-- ### *Selected Honors*
 
 <table style="border:none;font-size:0.95em;">
   <tr>
@@ -96,7 +96,7 @@ supervised by Prof. [Yi Chang](http://yichang-cs.com/). During my graduate studi
     <td style="border:none;text-align:center;">2016
     </td>
   </tr>
-</table>
+</table> -->
 
 <!-- <table style="border:none;font-size:0.95em;">
   <tr>
@@ -137,14 +137,14 @@ supervised by Prof. [Yi Chang](http://yichang-cs.com/). During my graduate studi
   </tr>
 </table> -->
 
-### *Fun Facts*
+<!-- ### *Fun Facts*
 
 In the Chinese context, my name is kind of feminine, and many people think that I am a girl before they meet me.  
 I'm a gamer that enjoys driving and sightseeing in virtual worlds, though I don't have a driver's license in the real world.  
-I'm good at skating, but I can't ski.
+I'm good at skating, but I can't ski. -->
 
 --------
 
 
 <center><b>Site Analytics</b></center>
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=386&t=tt&d=s7da3uibCWrEACtenkU2Dnw2AuuAP4rk7LBtrM3J70k&co=2c3e50"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=SyAAeDeV3AaJPXAF0m5NPLv4j4kpB5DIYE76AhnTteY&cl=ffffff&w=a"></script>
