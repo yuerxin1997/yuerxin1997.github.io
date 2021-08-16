@@ -1,8 +1,20 @@
-Service and Leadership
-======
-* Serve as a class monitor since 2015.
-* Serve as a reviewer for:
-  * Journals: IEEE TKDE, IEEE Trans. on Cybernetics, Elsevier Neurocomputing
-  * Conferences: ACM SIGKDD, IEEE ICDM
-* Volunteer for:
-  * [ACM SIGIR 2020](https://sigir.org/sigir2020/volunteers/), responsible for conference promotion and publicity.
+---
+layout: archive
+title: "Services"
+permalink: /services/
+author_profile: true
+---
+
+
+# Services
+  I was/am/will be serving as a reviewer for the following journals and conferences.
+
+## Journal Article Reviewer
+- Elsevier Neurocomputing
+- IEEE Transactions on Knowledge and Data Engineering (TKDE)
+## Conference Paper Reviewer
+- Conference on Empirical Methods in Natural Language Processing (EMNLP): 2021 (PC Member)
+- Annual Meeting of the Association for Computational Linguistics (ACL): 2020 (External Reviewer)
+- The AAAI Conference on Artificial Intelligence (AAAI): 2020~2021 (External Reviewer)
+- ACM International Conference on Information and Knowledge Management (CIKM): 2020 (External Reviewer)
+- IEEE International Conference on Data Mining (ICDM): 2019 (External Reviewer)
