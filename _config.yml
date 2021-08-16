@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Erxin Yu1"
+  name             : "Erxin Yu"
   avatar           : "yuerxin.jpg"
   bio              : 
   location         : "Changchun, China"
@@ -90,8 +90,8 @@ author:
   pubmed           : 
   googlescholar    : 
   email            : yuerxin1997@gmail.com
-  researchgate     : "https://www.researchgate.net/profile/Zhi_Ning_Liu"
-  uri              : "https://zhiningliu.com/"
+  researchgate     : #"https://www.researchgate.net/profile/Zhi_Ning_Liu"
+  uri              : #"https://zhiningliu.com/"
   bitbucket        :
   codepen          :
   dribbble         :
