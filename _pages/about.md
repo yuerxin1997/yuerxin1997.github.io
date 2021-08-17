@@ -41,7 +41,7 @@ supervised by Prof. [Yi Chang](http://yichang-cs.com/). During my graduate studi
       <br>
       Master of Science (Sept. 2019 - Now)
       <br>
-      Supervisor: Dr. <a href="http://yichang-cs.com/">Yi CHANG</a>
+      Supervisor: Dr. <a href="http://yichang-cs.com/">Yi Chang</a>
     </td>
   </tr>
   <tr>
@@ -147,8 +147,7 @@ I'm good at skating, but I can't ski. -->
 
 
 <center><b>Site Analytics</b></center>
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=386&t=tt&d=SyAAeDeV3AaJPXAF0m5NPLv4j4kpB5DIYE76AhnTteY&co=2c3e50"></script>
-
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=386&t=tt&d=gigmUpaCJlv-R03qztOjZX9W29yRfGKcQbKV8AJj_Q8&co=2c3e50'></script>
 <!-- <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=386&t=tt&d=s7da3uibCWrEACtenkU2Dnw2AuuAP4rk7LBtrM3J70k&co=2c3e50"></script> -->
 
 <!-- <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=0e1633&w=a&t=tt&d=SyAAeDeV3AaJPXAF0m5NPLv4j4kpB5DIYE76AhnTteY&co=0b4975&cmo=3acc3a&cmn=ff5353&ct=cdd4d9"></script> -->
