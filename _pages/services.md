@@ -12,7 +12,6 @@ author_profile: true
 - IEEE Transactions on Knowledge and Data Engineering (TKDE)
 
 ## Conference Paper Reviewer
-- Conference on Empirical Methods in Natural Language Processing (EMNLP): 2021 (PC Member)
 - Annual Meeting of the Association for Computational Linguistics (ACL): 2020 (External Reviewer)
 - The AAAI Conference on Artificial Intelligence (AAAI): 2020~2021 (External Reviewer)
 - ACM International Conference on Information and Knowledge Management (CIKM): 2020 (External Reviewer)
