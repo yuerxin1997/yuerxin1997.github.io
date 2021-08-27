@@ -88,7 +88,7 @@ author:
   employer_site    : "http://global.jlu.edu.cn/"
   zhihu            : #"liu-zhi-zhu-14"
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=CkgmNFoAAAAJ&view_op=list_works&gmla=AJsN-F5L_bOcDqclMYl7Uavpu8nPizcO9LlQYPhhLf5pdowI-aBlF2Ps1x3vTBfsbYyGJRKt_CSSfQou-RYcFjmVg4rDvwk_4FIj4jtF3A81PsJDa4BU0rwsUw4E8I761VU8bdPVN_MCYE65JzxmoTxiOrsX-J26ew"
   email            : yuerxin1997@gmail.com
   researchgate     : #"https://www.researchgate.net/profile/Zhi_Ning_Liu"
   uri              : #"https://zhiningliu.com/"
@@ -98,13 +98,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "yuerxin1997"
+  github           : "https://github.com/yuerxin1997/"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : #"zhiningliu/"
+  linkedin         : 
   orcid            : #"https://orcid.org/0000-0003-1828-2109"
   pinterest        :
   soundcloud       :
